@@ -238,3 +238,7 @@ h1 {
     background: var(--Lightgrayishcyan);
     color: var(--Verydarkcyan);
 }
+
+.attribution {
+    margin-top: 30px;
+}
