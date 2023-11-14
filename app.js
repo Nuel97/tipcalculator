@@ -76,3 +76,8 @@ reset.addEventListener('click', function() {
     custom.value = ''
     resetColor()
 })
+
+function tip() {
+    error.style.display = 'none'
+    error2.style.outline = 'none'
+}
